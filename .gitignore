@@ -1,5 +1,7 @@
 # Autosave files
-*~
+*
+# IDE
+.idea
 
 # build
 [Oo]bj/
@@ -37,4 +39,4 @@ Thumbs.db
 *.Resharper
 
 # dotCover
-*.dotCover
+.dotCover
